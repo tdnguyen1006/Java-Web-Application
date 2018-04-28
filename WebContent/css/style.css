@@ -1,0 +1,93 @@
+body {
+	color: #777777 !important;
+}
+
+.test {
+	min-height: 500px;
+	padding-top: 80px;
+}
+
+.banner {
+	padding-top: 150px;
+	text-transform: uppercase;
+}
+
+.navbar-brand {
+	padding-top: 18px;
+	font-weight: 600;
+	line-height: 23px;
+	letter-spacing: 3px;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-family: "Montserrat", sans-serif;
+}
+
+.footer {
+	min-height: 150px;
+	text-align: center;
+}
+
+.footer .col-sm-4 {
+	min-height: 120px;
+}
+
+.form-control, .btn {
+	border-radius: 0px;
+}
+
+.btn {
+	color: #777777;
+}
+
+form, .img {
+	margin-top: 60px;
+}
+
+.form-group {
+	margin-bottom: 30px;
+}
+
+.error {
+	margin-bottom: 15px;
+	color: red;
+}
+
+.success {
+	margin-bottom: 15px;
+	color: green;
+}
+
+@media ( max-width : 1000px) {
+	.navbar-default .navbar-nav>li>a {
+		padding-right: 0;
+	}
+}
+
+
+textarea {
+	min-height: 160px;
+	resize: none;
+}
+
+.textarea-long {
+	min-height: 225px;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+
+.
+.bootstrap-iso .formden_header h2, .bootstrap-iso .formden_header p,
+	.bootstrap-iso form {
+	font-family: Arial, Helvetica, sans-serif;
+	color: black
+}
+
+.bootstrap-iso form button, .bootstrap-iso form button:hover {
+	color: white !important;
+}
+
+.asteriskField {
+	color: red;
+}
